@@ -29,7 +29,7 @@ Requirements:
 
  How to run:
 1. import the required libraries.
-2. import the chatr file.
+2. import the chatr file and after downloading chatr file change the path according to your system.
 3. download and import the nltk tools like punkt and wordnet and run them all once only not run every time while executing the project.
 4.run every cell one by one in jupyter notebook 
 5. chatbot interface will open
